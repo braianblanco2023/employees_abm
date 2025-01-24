@@ -1,0 +1,46 @@
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.exe
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.form_Empleados.resources
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.exe
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.form_NuevoEmpleado.resources
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Negocio.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Negocio.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.form_Empleados.resources
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.form_NuevoEmpleado.resources
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Datos.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Entidades.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Datos.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Entidades.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Datos.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\Datos.dll.config
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\bin\Debug\EntityFramework.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache

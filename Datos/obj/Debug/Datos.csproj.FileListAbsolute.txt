@@ -1,0 +1,28 @@
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\Datos.dll.config
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\Datos.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\Datos.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\Entidades.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\EntityFramework.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\Entidades.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\EntityFramework.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\obj\Debug\Datos.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\obj\Debug\Datos.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\Datos.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\Datos.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\obj\Debug\Datos.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\obj\Debug\Datos.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\Entidades.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\Entidades.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Datos\bin\Debug\Datos.dll.config
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache

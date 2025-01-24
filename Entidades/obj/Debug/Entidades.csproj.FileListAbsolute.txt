@@ -1,0 +1,12 @@
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\bin\Debug\Entidades.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\bin\Debug\Entidades.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\obj\Debug\Entidades.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\bin\Debug\Entidades.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\obj\Debug\Entidades.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Entidades\obj\Debug\Entidades.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

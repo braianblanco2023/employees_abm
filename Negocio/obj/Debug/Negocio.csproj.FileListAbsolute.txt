@@ -1,0 +1,32 @@
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Negocio.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Negocio.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Datos.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Entidades.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Datos.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Datos.dll.config
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\Entidades.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\obj\Debug\Negocio.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\obj\Debug\Negocio.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Negocio.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Datos.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Datos.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Entidades.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Braian\Desktop\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\AMB_con_ORM\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
